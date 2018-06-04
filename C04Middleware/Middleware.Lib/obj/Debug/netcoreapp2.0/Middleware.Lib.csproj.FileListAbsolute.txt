@@ -1,0 +1,11 @@
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\bin\Debug\netcoreapp2.0\Middleware.Lib.deps.json
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\bin\Debug\netcoreapp2.0\Middleware.Lib.runtimeconfig.json
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\bin\Debug\netcoreapp2.0\Middleware.Lib.runtimeconfig.dev.json
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\bin\Debug\netcoreapp2.0\Middleware.Lib.dll
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\bin\Debug\netcoreapp2.0\Middleware.Lib.pdb
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\obj\Debug\netcoreapp2.0\Middleware.Lib.csprojAssemblyReference.cache
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\obj\Debug\netcoreapp2.0\Middleware.Lib.csproj.CoreCompileInputs.cache
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\obj\Debug\netcoreapp2.0\Middleware.Lib.AssemblyInfoInputs.cache
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\obj\Debug\netcoreapp2.0\Middleware.Lib.AssemblyInfo.cs
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\obj\Debug\netcoreapp2.0\Middleware.Lib.dll
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Lib\obj\Debug\netcoreapp2.0\Middleware.Lib.pdb

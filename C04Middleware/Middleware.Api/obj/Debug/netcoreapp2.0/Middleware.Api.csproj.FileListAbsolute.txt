@@ -1,0 +1,14 @@
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\bin\Debug\netcoreapp2.0\Middleware.Api.deps.json
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\bin\Debug\netcoreapp2.0\Middleware.Api.runtimeconfig.json
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\bin\Debug\netcoreapp2.0\Middleware.Api.runtimeconfig.dev.json
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\bin\Debug\netcoreapp2.0\Middleware.Api.dll
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\bin\Debug\netcoreapp2.0\Middleware.Api.pdb
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\obj\Debug\netcoreapp2.0\Middleware.Api.csprojAssemblyReference.cache
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\obj\Debug\netcoreapp2.0\Middleware.Api.csproj.CoreCompileInputs.cache
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\obj\Debug\netcoreapp2.0\Middleware.Api.AssemblyInfoInputs.cache
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\obj\Debug\netcoreapp2.0\Middleware.Api.AssemblyInfo.cs
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\obj\Debug\netcoreapp2.0\Middleware.Api.dll
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\obj\Debug\netcoreapp2.0\Middleware.Api.pdb
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\bin\Debug\netcoreapp2.0\Middleware.Lib.dll
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\bin\Debug\netcoreapp2.0\Middleware.Lib.pdb
+C:\projects\netcore\AwesomeSauce\C04Middleware\Middleware.Api\obj\Debug\netcoreapp2.0\Middleware.Api.csproj.CopyComplete

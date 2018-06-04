@@ -1,0 +1,11 @@
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\bin\Debug\netcoreapp2.0\Config.Api.deps.json
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\bin\Debug\netcoreapp2.0\Config.Api.runtimeconfig.json
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\bin\Debug\netcoreapp2.0\Config.Api.runtimeconfig.dev.json
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\bin\Debug\netcoreapp2.0\Config.Api.dll
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\obj\Debug\netcoreapp2.0\Config.Api.csprojAssemblyReference.cache
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\obj\Debug\netcoreapp2.0\Config.Api.csproj.CoreCompileInputs.cache
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\obj\Debug\netcoreapp2.0\Config.Api.AssemblyInfoInputs.cache
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\obj\Debug\netcoreapp2.0\Config.Api.AssemblyInfo.cs
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\bin\Debug\netcoreapp2.0\Config.Api.pdb
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\obj\Debug\netcoreapp2.0\Config.Api.dll
+C:\projects\netcore\AwesomeSauce\C06Configuration\Config.Api\obj\Debug\netcoreapp2.0\Config.Api.pdb

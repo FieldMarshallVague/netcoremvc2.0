@@ -1,0 +1,11 @@
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\bin\Debug\netcoreapp2.0\Logging.Api.deps.json
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\bin\Debug\netcoreapp2.0\Logging.Api.runtimeconfig.json
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\bin\Debug\netcoreapp2.0\Logging.Api.runtimeconfig.dev.json
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\bin\Debug\netcoreapp2.0\Logging.Api.dll
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\bin\Debug\netcoreapp2.0\Logging.Api.pdb
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\obj\Debug\netcoreapp2.0\Logging.Api.csprojAssemblyReference.cache
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\obj\Debug\netcoreapp2.0\Logging.Api.csproj.CoreCompileInputs.cache
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\obj\Debug\netcoreapp2.0\Logging.Api.AssemblyInfoInputs.cache
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\obj\Debug\netcoreapp2.0\Logging.Api.AssemblyInfo.cs
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\obj\Debug\netcoreapp2.0\Logging.Api.dll
+C:\projects\netcore\AwesomeSauce\C07Logging\Logging.Api\obj\Debug\netcoreapp2.0\Logging.Api.pdb

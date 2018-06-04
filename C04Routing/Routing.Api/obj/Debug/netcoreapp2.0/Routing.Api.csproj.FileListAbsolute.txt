@@ -1,0 +1,11 @@
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\bin\Debug\netcoreapp2.0\Routing.Api.deps.json
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\bin\Debug\netcoreapp2.0\Routing.Api.runtimeconfig.json
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\bin\Debug\netcoreapp2.0\Routing.Api.runtimeconfig.dev.json
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\bin\Debug\netcoreapp2.0\Routing.Api.dll
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\bin\Debug\netcoreapp2.0\Routing.Api.pdb
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\obj\Debug\netcoreapp2.0\Routing.Api.csproj.CoreCompileInputs.cache
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\obj\Debug\netcoreapp2.0\Routing.Api.AssemblyInfoInputs.cache
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\obj\Debug\netcoreapp2.0\Routing.Api.AssemblyInfo.cs
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\obj\Debug\netcoreapp2.0\Routing.Api.dll
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\obj\Debug\netcoreapp2.0\Routing.Api.pdb
+C:\projects\netcore\AwesomeSauce\C04Routing\Routing.Api\obj\Debug\netcoreapp2.0\Routing.Api.csprojAssemblyReference.cache
