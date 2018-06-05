@@ -1,0 +1,11 @@
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\bin\Debug\netcoreapp2.0\Versioning.deps.json
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\bin\Debug\netcoreapp2.0\Versioning.runtimeconfig.json
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\bin\Debug\netcoreapp2.0\Versioning.runtimeconfig.dev.json
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\bin\Debug\netcoreapp2.0\Versioning.dll
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\obj\Debug\netcoreapp2.0\Versioning.csprojAssemblyReference.cache
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\obj\Debug\netcoreapp2.0\Versioning.csproj.CoreCompileInputs.cache
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\obj\Debug\netcoreapp2.0\Versioning.AssemblyInfoInputs.cache
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\obj\Debug\netcoreapp2.0\Versioning.AssemblyInfo.cs
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\bin\Debug\netcoreapp2.0\Versioning.pdb
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\obj\Debug\netcoreapp2.0\Versioning.dll
+C:\projects\netcore\AwesomeSauce\C09Extras\versioning\obj\Debug\netcoreapp2.0\Versioning.pdb
